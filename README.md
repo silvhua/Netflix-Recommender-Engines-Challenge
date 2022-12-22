@@ -30,6 +30,8 @@ Cross-validated R^2  | 0.3335 | 0.4515 | 0.3509 | -0.1381
 
 ![linear regression](./outputs/figures/linear_regressor_results.png)
 
+![logistic regression](./outputs/figures/logistic_results.png)
+
 ![surprise NMF](./outputs/figures/surprise_NMF_1221_results.png)
 
 
