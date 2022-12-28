@@ -1,0 +1,9 @@
+﻿Method,Algorithm,Number of samples used in training,Input movies count,Recommended movies count,recommended to input ratio
+Scikit Surprise,NMF,"100,480,507",31,28,0.9
+Scikit Surprise,SVD,"100,480,507",31,26,0.84
+Memory-based collaborative filtering: user-to-user,KNeighbors,"1,000,000",31,37,1.19
+Memory-based collaborative filtering: item-to-item,KNeighbors,"1,000,000",31,17,0.55
+Memory-based collaborative filtering: item-to-item,Cosine similarity,"1,000,000",31,1,0.03
+randomizedSVD (n_components=500),cosine similarity using items matrix,"100,000",17,3,0.18
+Content-based filtering,Apyori,"500,000",35,18,0.51
+Content-based filtering,Word2Vec,"500,000",35,28,0.8

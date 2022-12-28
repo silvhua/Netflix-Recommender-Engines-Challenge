@@ -1,0 +1,9 @@
+﻿Algorithm,Number of samples used in training,Number of movies in test sample*,Number of recommended movies based on test sample*
+Surprise NMF,"100,480,507",31,28
+Surprise SVD,"100,480,507",31,16
+Linear Regression,"1,000,000",31,3
+,,,
+,,,
+,,,
+,,,
+,,,
