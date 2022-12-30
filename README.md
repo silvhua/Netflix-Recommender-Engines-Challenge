@@ -183,7 +183,7 @@ Linear Regression | 1,000,000 | 31.0 | 3.0 | 0.10
 
 # Conclusions
 
-In terms of estimating ratings for a given user and movie, an ordinary least squares regression model (with average-based rating estimation as features) performed the best (i.e. provided rating estimations with the lowest RMSE and highest R^2 score). However, user-to-user memory-based collaborative filtering provided the highest diversity in movie recommendations and may more accurately acccount for diversity in customer preferences.
+In terms of estimating ratings for a given user and movie, an ordinary least squares regression model (with average-based rating estimation as features) performed the best (i.e. provided rating estimations with the lowest RMSE and highest R^2 score). However, user-to-user memory-based collaborative filtering provided the highest diversity in movie recommendations and may more accurately account for diversity in customer preferences.
 
 # Challenges
 
